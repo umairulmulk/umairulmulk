@@ -15,12 +15,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Detection Lab|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | Detection Lab |
+| Network Traffic Monitoring and Attack Detection | Detection Lab |
+| Security Automation with Shuffle SOAR         | Home Lab |
+| Incident Response Planning and Execution      | Home Lab |
+| Case Management with TheHive                  | Home Lab |
+| Scripting and Automation for Threat Mitigation | Home Lab |
 
 ## Tools
 
@@ -60,4 +60,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- Home Lab
