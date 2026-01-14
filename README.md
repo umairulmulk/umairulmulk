@@ -52,9 +52,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/SOC%20Level%201-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Human%20Centered%20Design-UX-6A1B9A?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Human%20Centered%20Design-6A1B9A?style=for-the-badge&logo=figma&logoColor=white" />
 
-<img src="https://img.shields.io/badge/UX%20Design-Design-FF7262?style=for-the-badge&logo=adobe&logoColor=white" />
+<img src="https://img.shields.io/badge/UX%20Design-FF7262?style=for-the-badge&logo=adobe&logoColor=white" />
 
 </div>
 
